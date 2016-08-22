@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<items>
+
+
+<item>
+<title>[COLOR lime]  FILMPHP [/COLOR] </title>
+<link>http://ignorame</link>
+<externallink>http://ignorame</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  SERVER 1 - OFFLINE[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://www.filmphp.com/Kodi/index.php</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  SERVER 2 - ONLINE[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://www.epgphp.com/Kodi/index.php</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]  SERVER 3 - OFFLINE[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://www.filmphp.com/Kodi/index.php</externallink>
+</item>
+
+
+</items>
