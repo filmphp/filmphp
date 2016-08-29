@@ -5,34 +5,38 @@
 
 
 <item>
-<title>[COLOR lime]  FILMPHP [/COLOR] </title>
-<link>http://ignorame</link>
-<externallink>http://ignorame</externallink>
-</item>
-
-<item>
-<title>[COLOR red]  SERVER 1 - OFFLINE[/COLOR] </title>
+<title>[COLOR lime]  filmphp.it Nuovo Sito![/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://www.filmphp.com/Kodi/index.php</externallink>
+<externallink>http://www.filmphp.it</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]  SERVER 2 - ONLINE[/COLOR] </title>
+<title>[COLOR lime]  Login Obbligatorio![/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://www.epgphp.com/Kodi/index.php</externallink>
+<externallink>http://www.filmphp.it/Kodi/index.php</externallink>
 </item>
 
 <item>
-<title>[COLOR red]  SERVER 3 - OFFLINE[/COLOR] </title>
+<title>[COLOR lime]  Link Registrazioni![/COLOR] </title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://www.filmphp.com/Kodi/index.php</externallink>
+<externallink>http://www.filmphp.it/Kodi/index.php</externallink>
 </item>
+
+<item>
+<title>[COLOR lime]  http://www.filmphp.it/Kodi/Login![/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://www.filmphp.it/Kodi/index.php</externallink>
+</item>
+
+
 
 
 </items>
