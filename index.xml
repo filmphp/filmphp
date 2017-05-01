@@ -4,19 +4,25 @@
 <items>
 
 <item>
-<title>[UPPERCASE][COLOR skyblue]Benvenuti sul nuovo portale web Filmphp![/COLOR][/UPPERCASE]</title>
-<link>$doregex[info]</link>
+<title>[UPPERCASE][COLOR skyblue]Benvenuti sul nuovo portale kodi di Filmphp![/COLOR][/UPPERCASE]</title>
+<link>http://ignorame$doregex[info]</link>
 <thumbnail>http://i.imgur.com/4ZzSrHp.jpg</thumbnail>
 <regex>
 <name>info</name>
-<expres>$pyFunction:xbmcgui.Dialog().ok('Filmphp', 'Questo portale non richiede login!')</expres>
+<expres>$pyFunction:xbmcgui.Dialog().ok('Filmphp', 'Visita il sito ufficiale : www.filmphp.it')</expres>
 <page></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
+
+<item>
+<title>[UPPERCASE][COLOR lime]LISTE IPTV - soon![/COLOR][/UPPERCASE]</title>
+<link>http://ignorame</link>
+<externallink>http://www.filmphp.it/</externallink>
+</item>
   
 <item>
-<title>[UPPERCASE][COLOR skyblue]Guida tv completa settimanale![/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR lime]Guida tv completa settimanale![/COLOR][/UPPERCASE]</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/b8fYeG2.png</thumbnail>
 <fanart>http://i.imgur.com/b8fYeG2.png</fanart>
@@ -24,21 +30,40 @@
 </item>
 
 <item>
-<title>[UPPERCASE][COLOR skyblue]Tv Ondemand Italia[/COLOR][/UPPERCASE]</title>
+<title>[UPPERCASE][COLOR lime]Tv Ondemand Italia[/COLOR][/UPPERCASE]</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/mq0vV6f.jpg</thumbnail>
 <fanart>http://i.imgur.com/mq0vV6f.jpg</fanart>
 <externallink>http://www.filmphp.it/Kodi/Ondemand/index.php</externallink>
 </item>
 
+<item>
+<title>[UPPERCASE][COLOR skyblue]Itflix - Film e SerieTv in streaming Gratis![/COLOR][/UPPERCASE]</title>
+<link>http://ignorame$doregex[info]</link>
+<thumbnail>http://i.imgur.com/4ZzSrHp.jpg</thumbnail>
+<regex>
+<name>info</name>
+<expres>$pyFunction:xbmcgui.Dialog().ok('Filmphp', 'Visita il sito ufficiale : www.itflix.it')</expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
 
 <item>
-<title>[COLOR lime]  Link Registrazioni! filmphp.it/Kodi/Login/[/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://www.filmphp.it/Kodi/index.php</externallink>
+<title>[UPPERCASE][COLOR skyblue]Info account e registrazioni[/COLOR][/UPPERCASE] [UPPERCASE][COLOR lime]Fai clic qui![/COLOR][/UPPERCASE]</title>
+<link>http://ignorame$doregex[info]</link>
+<thumbnail>http://i.imgur.com/4ZzSrHp.jpg</thumbnail>
+<regex>
+<name>info</name>
+<expres>$pyFunction:xbmcgui.Dialog().ok('Filmphp', 'Per registrazioni via PayPal : www.filmphp.it/PayPal/', 'Per registrazione Telegram : www.telegram.me/filmphp', 'Sito web : www.filmphp.it')</expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
+
+
+
+
 
 </items>
