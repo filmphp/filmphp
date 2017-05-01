@@ -3,13 +3,16 @@
 
 <items>
 
-
 <item>
-<title>[COLOR lime]  filmphp.it Nuovo Sito![/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://www.filmphp.it</externallink>
+<title>[UPPERCASE][COLOR skyblue]Benvenuti sul nuovo portale web Filmphp![/COLOR][/UPPERCASE]</title>
+<link>$doregex[info]</link>
+<fanart>http://i.imgur.com/4ZzSrHp.jpg</fanart>
+<regex>
+<name>info</name>
+<expres>$pyFunction:xbmcgui.Dialog().ok('Filmphp', 'Questo portale non richiede login!')</expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
 </item>
 
 <item>
