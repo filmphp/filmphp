@@ -6,8 +6,8 @@
 <item>
 <title>[UPPERCASE][COLOR skyblue]Benvenuti sul nuovo portale web Filmphp![/COLOR][/UPPERCASE]</title>
 <link>$doregex[info]</link>
-<fanart>http://i.imgur.com/4ZzSrHp.jpg</fanart>
-<regex>
+<thumbnail>http://i.imgur.com/JtMlylQ.jpg</thumbnail>
+<fanart>http://i.imgur.com/4ZzSrHp.jpg</fanart><regex>
 <name>info</name>
 <expres>$pyFunction:xbmcgui.Dialog().ok('Filmphp', 'Questo portale non richiede login!')</expres>
 <page></page>
