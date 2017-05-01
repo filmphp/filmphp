@@ -6,8 +6,8 @@
 <item>
 <title>[UPPERCASE][COLOR skyblue]Benvenuti sul nuovo portale web Filmphp![/COLOR][/UPPERCASE]</title>
 <link>$doregex[info]</link>
-<thumbnail>http://i.imgur.com/JtMlylQ.jpg</thumbnail>
-<fanart>http://i.imgur.com/4ZzSrHp.jpg</fanart><regex>
+<thumbnail>http://i.imgur.com/4ZzSrHp.jpg</thumbnail>
+<regex>
 <name>info</name>
 <expres>$pyFunction:xbmcgui.Dialog().ok('Filmphp', 'Questo portale non richiede login!')</expres>
 <page></page>
@@ -16,7 +16,7 @@
 </item>
   
 <item>
-<title>[COLOR lime]  •[/COLOR][COLOR orange]   GUIDA TV - EPG[/COLOR] </title>
+<title>[UPPERCASE][COLOR skyblue]Guida tv completa settimanale![/COLOR][/UPPERCASE]</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/b8fYeG2.png</thumbnail>
 <fanart>http://i.imgur.com/b8fYeG2.png</fanart>
@@ -24,12 +24,14 @@
 </item>
 
 <item>
-<title>[COLOR lime]  Login Obbligatorio![/COLOR] </title>
+<title>[UPPERCASE][COLOR skyblue]Tv Ondemand Italia[/COLOR][/UPPERCASE]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://www.filmphp.it/Kodi/index.php</externallink>
+<thumbnail>http://i.imgur.com/mq0vV6f.jpg</thumbnail>
+<fanart>http://i.imgur.com/mq0vV6f.jpg</fanart>
+<externallink>http://www.filmphp.it/Kodi/Ondemand/index.php</externallink>
 </item>
+
+
 
 <item>
 <title>[COLOR lime]  Link Registrazioni! filmphp.it/Kodi/Login/[/COLOR] </title>
@@ -38,14 +40,5 @@
 <fanart></fanart>
 <externallink>http://www.filmphp.it/Kodi/index.php</externallink>
 </item>
-
-<item>
-<title>[COLOR blue]  TV DTT - Televisione digitale terrestre[/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://www.filmphp.it/Kodi/Playlists/Dtt/index.php</externallink>
-</item>
-
 
 </items>
