@@ -14,6 +14,14 @@
 <cookieJar></cookieJar>
 </regex>
 </item>
+  
+<item>
+<title>[COLOR lime]  •[/COLOR][COLOR orange]   GUIDA TV - EPG[/COLOR] </title>
+<link>http://ignorame</link>
+<thumbnail>http://i.imgur.com/b8fYeG2.png</thumbnail>
+<fanart>http://i.imgur.com/b8fYeG2.png</fanart>
+<externallink>http://www.filmphp.it/Kodi/Epg/index.php</externallink>
+</item>
 
 <item>
 <title>[COLOR lime]  Login Obbligatorio![/COLOR] </title>
